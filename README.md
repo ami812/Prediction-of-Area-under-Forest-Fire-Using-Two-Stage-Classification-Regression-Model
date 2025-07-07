@@ -1,0 +1,1 @@
+# Prediction-of-Area-under-Forest-Fire-Using-Two-Stage-Classification-Regression-Model
